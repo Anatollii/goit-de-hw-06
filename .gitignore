@@ -1,0 +1,4 @@
+.venv/
+goit_de_hw_06/checkpoints/
+__pycache__/
+.idea/
